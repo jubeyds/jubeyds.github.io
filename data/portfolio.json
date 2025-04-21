@@ -1,0 +1,20 @@
+[
+    {
+        "image": "cypress.png",
+        "title": "Automatisation de test avec Cypress",
+        "text": "Tests E2E et API avec Cypress sur le site de l'agence événementielle 724events.",
+        "link": "https://github.com/jubeyds/Automatisation-avec-Cypress"
+    },
+    {
+        "image": "tomsen.png",
+        "title": "Tomsen",
+        "text": "Conception d'une stratégie de test pour l'entreprise Payforge.",
+        "link": "https://github.com/jubeyds/STRATEGIE-DE-TEST-TOMSEN-"
+    },
+    {
+        "image": "724.png",
+        "title": "724events",
+        "text": "Menez une campagne de tests et d'automatisation pour l'agence événementielle 724events. ",
+        "link": "https://github.com/jubeyds/campagne-de-test-724events"
+    }
+]

@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Sitemap: https://jubeyds.github.io/sitemap.xml
+
+# Empêcher l'indexation des ressources non essentielles
+Disallow: /images/
+Disallow: /css/
+Disallow: /js/
+
+# Optimisation pour GitHub Pages
+Disallow: /node_modules/
+Disallow: /.git/ 
